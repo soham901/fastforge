@@ -11,7 +11,7 @@ def fastforge():
 @fastforge.command()
 @click.argument("app_name")
 def create_app(app_name):
-    """Generate a FastAPI sub-app folder with the given APP_NAME"""
+    """Generate a FastAPI sub-app folder with the given APP_NAME."""
     # Directories and files to create
     files = [
         "__init__.py",
