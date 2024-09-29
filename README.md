@@ -4,7 +4,7 @@ fastforge is a simple FastAPI utility CLI designed to help developers quickly se
 
 ## Features
 
-### Current Version (v0.0.1)
+### Current Version (v0.0.2)
 
 - Generate a FastAPI sub-app folder structure with a single command
 - Creates a set of empty files for common FastAPI app components
