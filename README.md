@@ -1,4 +1,4 @@
-fastforge
+# Fast Forge
 
 fastforge is a simple FastAPI utility CLI designed to help developers quickly set up FastAPI projects with a predefined folder structure. It's perfect for hackathons, MVP development, or any situation where you need to rapidly bootstrap a FastAPI application with a production-ready project structure.
 
