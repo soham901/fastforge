@@ -1,6 +1,6 @@
 # Fast Forge
 
-fastforge is a simple FastAPI utility CLI designed to help developers quickly set up FastAPI projects with a predefined folder structure. It's perfect for hackathons, MVP development, or any situation where you need to rapidly bootstrap a FastAPI application with a production-ready project structure.
+Fast Forge is a simple FastAPI utility CLI designed for developers who want to quickly set up FastAPI projects with a predefined folder structure. Whether you're participating in a hackathon, developing a Minimum Viable Product (MVP), or need to bootstrap a FastAPI application, Fast Forge provides a streamlined approach to get you started with a production-ready project structure.
 
 ## Features
 
@@ -13,10 +13,7 @@ fastforge is a simple FastAPI utility CLI designed to help developers quickly se
 
 - Generate entire project structures with selectable modules
 - Add pre-configured modules such as:
-  - Authentication
-  - Task queues
-  - Email Service
-  - Simple frontend (e.g. using Jinja2 and Bootstrap)
+  - Third-party module integration (e.g., auth, simple frontend, task queue, etc.)
 
 Feel free to request more features by opening an issue.
 
